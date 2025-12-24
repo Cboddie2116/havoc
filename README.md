@@ -1,5 +1,12 @@
 # Havoc AI Agent Bot
+development
 
+```bash
+npm run build
+npx ts-node src/index.ts
+```
+async function main() {
+  const mint = '2az8Wzi99L8Ee5TGXoyPXRnRoKToqq6dHN8DgVZEpump';
 Ai Agent market-making system for pump.fun tokens that evaluates creator behavior and adjusts liquidity support accordingly.
 
 **Mayhem** introduces volatility and tests token robustness.
